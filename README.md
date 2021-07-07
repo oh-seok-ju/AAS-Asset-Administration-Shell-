@@ -7,7 +7,6 @@
 
 
 
-[참조] 
-
+[참조] /n
 KOSMO 스마트제조혁신추진단 & Nestfield  
 https://www.nextcampus.kr/mobile/course_view.jsp?id=28440
