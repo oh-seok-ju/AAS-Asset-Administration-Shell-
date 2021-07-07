@@ -10,5 +10,5 @@
 
 [참조]  
  KOSMO 스마트제조혁신추진단 & Nestfield  
- https://www.nextcampus.kr/mobile/course_view.jsp?id=28440
- https://github.com/admin-shell/aasx-package-explorer
+ https://www.nextcampus.kr/mobile/course_view.jsp?id=28440 
+  https://github.com/admin-shell/aasx-package-explorer
