@@ -1,4 +1,4 @@
-# AAS-Asset-Administration-Shell-
+# AAS-Asset-Administration-Shell 연구
 
 > Open AASX기반의 AAS shell 제작 연구
 
