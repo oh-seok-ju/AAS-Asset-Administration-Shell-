@@ -9,6 +9,7 @@
 
 2.aasx 파일은 직접 aorzelskiGH가 제작한 Open AASX 자료를 사용
 
+3.DHT11 센서를 사용하여 직접 AAS를 제작 <추후 DHT11센서와 AAS와 DB를 연동하여 데이터 수집 예정> 
 
 ```
 [참조]  
